@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox_firefox.desktop" score="331" last-seen="1776983508"/>
+    <application id="libreoffice-writer.desktop" score="0" last-seen="1776983089"/>
+    <application id="org.gnome.Terminal.desktop" score="388" last-seen="1776983253"/>
+    <application id="update-manager.desktop" score="29" last-seen="1776978256"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1776983090"/>
+  </context>
+</application-state>
